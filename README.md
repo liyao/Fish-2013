@@ -1,4 +1,4 @@
-fishBlog
+Fish-2013
 ========
 
-theme files
+Theme files for blog.
